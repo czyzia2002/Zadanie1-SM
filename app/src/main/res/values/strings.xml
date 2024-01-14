@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_1">Na Ziemi mamy 8 kontynentów.</string>
+    <string name="q_2">Senegal leży w Afryce.</string>
+    <string name="q_3">Polska graniczy z Rosją.</string>
+    <string name="q_4">Sydney to stolica Australii.</string>
+    <string name="q_5">Nepal graniczy z Chinami.</string>
+    <string name="q_6">Na świecie jest mniej niż 150 krajów.</string>
+    <string name="correct_answer">Poprawna odpowiedź!</string>
+    <string name="incorrect_answer">Błędna odpowiedź!</string>
+</resources>
