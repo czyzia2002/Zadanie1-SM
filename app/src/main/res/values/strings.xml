@@ -11,4 +11,9 @@
     <string name="q_6">Na świecie jest mniej niż 150 krajów.</string>
     <string name="correct_answer">Poprawna odpowiedź!</string>
     <string name="incorrect_answer">Błędna odpowiedź!</string>
+    <string name="answer_was_shown">Odpowiedź była już pokazana!</string>
+
+    <string name="button_show_answer">Pokaż odpowiedź</string>
+    <string name="button_prompt">Podpowiedź</string>
+    <string name="button_back_to_question">Powrót do pytania</string>
 </resources>

@@ -46,3 +46,5 @@ c
 3app/src/test/java/pl/edu/pb/wi/ExampleUnitTest.java,c\e\ce873c6d50c3b631443bd4b13d8b66645505ab58
 Å
 Q.idea/sonarlint/securityhotspotstore/8/e/8e991c7cc4bccc4ec142caeb98214b24c3007b4a,f\5\f5d5ddba3a116a138ba12b23428410977b72eb3d
+b
+2app/src/main/java/pl/edu/pb/wi/PromptActivity.java,0\3\03d1526cfa2e747171a793b63f7cf0d3ed8b806a
